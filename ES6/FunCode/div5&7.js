@@ -1,0 +1,1 @@
+const div7and5=(num)=>num%7===0 && num%5===0;

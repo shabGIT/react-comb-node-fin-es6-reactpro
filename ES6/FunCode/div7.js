@@ -1,0 +1,1 @@
+const isdiv7=(num)=>num%7===0

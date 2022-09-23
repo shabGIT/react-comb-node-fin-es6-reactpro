@@ -1,0 +1,1 @@
+const isodd=(num)=>num%2===1;

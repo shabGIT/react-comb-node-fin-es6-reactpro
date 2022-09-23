@@ -1,0 +1,1 @@
+const div12=(num)=>num%12===0;
